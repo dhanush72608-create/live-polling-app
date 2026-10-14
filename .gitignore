@@ -1,0 +1,10 @@
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Go
+backend/main
+backend/main.exe
+
+# Environment
+.env
